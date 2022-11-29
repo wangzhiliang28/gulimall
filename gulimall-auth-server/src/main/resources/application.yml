@@ -1,0 +1,13 @@
+server:
+  port: 8150
+  servlet:
+    session:
+      timeout: 30m
+
+spring:
+  application:
+    name: gulimall-auth-server
+  cloud:
+
+
+
